@@ -12,6 +12,7 @@ CREATE TABLE Airlines
   id SERIAL PRIMARY KEY, 
   name TEXT NOT NULL
 );
+--g--
 
 INSERT INTO Airlines
   (name)
